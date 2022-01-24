@@ -1,0 +1,21 @@
+#container{
+    background-color: #E9E6E6;
+    width: 700px;
+    padding-top: 10px;
+}
+
+#firstDiv{
+    background-color: #78F0B7;
+    color: white;
+    text-align: center;
+    font-size: large;
+    border: 2px solid black;
+    margin: 0px 10px 40px 20px;
+}
+
+#secondDiv{
+    background-color: #24CCDA;
+    color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+}
